@@ -1,0 +1,3 @@
+说明：以`:`分割，左边为日期，对应了history目录下的文件名，右边表示生成该文件基于的commit id
+
+20260530.md: acd689b407a9fd42fbce4b40b04c304d9ba6adb7
